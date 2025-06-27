@@ -75,7 +75,7 @@ The dashboard uses data from `HR_Analytics.csv`, which includes the following at
 * **Most affected roles**: Lab Technicians and Sales Executives.
 * **Age 26–35** is the most attrition-prone group—likely mid-career switches.
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/HR_Analytics_Dashboard/blob/main/Dashboard.png)
 
 ## 🛠️ Tools Used
 
