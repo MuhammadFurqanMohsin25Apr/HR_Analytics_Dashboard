@@ -1,10 +1,10 @@
-# 📊 HR Analytics Dashboard
+# HR Analytics Dashboard
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 This HR Analytics Dashboard provides actionable insights into employee attrition and workforce trends using Power BI. It allows HR professionals to monitor key metrics and take steps to improve employee engagement and retention.
 
 
-## 📁 Dataset
+## Dataset
 
 The dashboard uses data from `HR_Analytics.csv`, which includes the following attributes:
 
@@ -14,7 +14,7 @@ The dashboard uses data from `HR_Analytics.csv`, which includes the following at
 * Attrition status
 
 
-## 📌 Key Metrics
+## Key Metrics
 
 * **Total Employees:** 1470
 * **Attrition:** 237
@@ -24,9 +24,9 @@ The dashboard uses data from `HR_Analytics.csv`, which includes the following at
 * **Average Tenure:** 7 years
 
 
-## 📊 Visual Insights
+## Visual Insights
 
-### 🎓 Attrition by Education
+### Attrition by Education
 
 * Life Sciences: 38%
 * Medical: 27%
@@ -42,33 +42,33 @@ The dashboard uses data from `HR_Analytics.csv`, which includes the following at
 * 46–55 years: 26
 * 55+ years: 8
 
-### 💸 Attrition by Salary
+### Attrition by Salary
 
 * Up to 5k: 163
 * 5k–10k: 49
 * 10k–15k: 20
 * 15k+: 5
 
-### ⏳ Attrition by Job Tenure
+### Attrition by Job Tenure
 
 * Highest attrition at 1 year (59)
 * Followed by 4, 7, and 10 years
 
-### 🧪 Attrition by Job Role
+### Attrition by Job Role
 
 * Laboratory Technician: 62
 * Sales Executive: 57
 * Research Scientist: 47
 * Sales Representative: 33
 
-### 🚻 Attrition by Gender
+### Attrition by Gender
 
 * Male: 140
 * Female: 79
 
 
 
-## 🧠 Insights
+## Insights
 
 * **High turnover in early years** points to onboarding or job fit issues.
 * **Lower salary groups** see the highest attrition.
@@ -77,7 +77,7 @@ The dashboard uses data from `HR_Analytics.csv`, which includes the following at
 
 ![HR Analytics Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/HR_Analytics_Dashboard/blob/main/Dashboard.png)
 
-## 🛠️ Tools Used
+## Tools Used
 
 * Power BI Desktop
 * Microsoft Excel / CSV
